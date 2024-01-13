@@ -1,8 +1,8 @@
 // Step 1
 const library = [
   {
-    title: 'The Road Ahead',
-    author: 'Bill Gates',
+    title: 'okok',
+    author: 'Quỳnh',
     status: {
       own: true,
       reading: false,
