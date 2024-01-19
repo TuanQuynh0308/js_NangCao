@@ -23,7 +23,7 @@ if (true) {
 function add() {
   // Overwriting global x (variable shadowing)
   const x = 1;
-  const y = 50;
+  const y = 5;
   console.log(x + y);
 }
 

@@ -1,5 +1,5 @@
 // Default Params
-function registerUser(user = 'Bot') {
+function registerUser(user = 'Quỳnh') {
   // Old way - before using `=`
   // if (!user) {
   //   user = 'Bot';
@@ -21,7 +21,7 @@ function sum(...numbers) {
   return total;
 }
 
-console.log(sum(1, 2, 3, 4, 5, 6, 100));
+console.log(sum(1, 2, 3, 4, 5, 6, 50));
 
 // Objects as params
 function loginUser(user) {
@@ -30,7 +30,7 @@ function loginUser(user) {
 
 const user = {
   id: 1,
-  name: 'John',
+  name: 'Quỳnh',
 };
 
 console.log(loginUser(user));

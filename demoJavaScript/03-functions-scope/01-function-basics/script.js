@@ -1,6 +1,6 @@
 // Define a function
 function sayHello() {
-  console.log('Hello World');
+  console.log('Chào');
 }
 
 // Invoke, execute or call a function
@@ -12,7 +12,7 @@ function add(num1, num2) {
 }
 
 // Invoke function with arguments
-add(5, 10);
+add(1, 2);
 
 // Parameters vs. Arguments
 // Parameters are the names of the variables that are used to pass data into a function.
